@@ -1,6 +1,7 @@
 # Message Encoder Decoder
 
-![Screenshot 2025-03-03 at 2 02 06 PM](https://github.com/user-attachments/assets/d1268cc9-74c3-4927-b495-70b73dc5a4b1)
+![Screenshot 2025-03-03 at 2 04 23 PM](https://github.com/user-attachments/assets/a82d93f7-3a6d-4bd8-b63c-0d68eea5c708)
+
 
                                            
 [🌌/VOID/ETHER/NEXUS] -----> Communication: Engaged | 🟢 active
