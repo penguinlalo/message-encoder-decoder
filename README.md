@@ -15,7 +15,7 @@ A fun and secure tool to encode and decode secret messages using emojis, letters
 - **Multiple Carriers**: Choose from emojis, letters, or numbers as your encoding carrier
 - **User-Friendly Interface**: Simple, intuitive UI with dark mode support
 - **Copy to Clipboard**: Easily copy encoded or decoded messages
-
+ 
 ## Technologies Used
 
 - Next.js - Dimensional Framework
